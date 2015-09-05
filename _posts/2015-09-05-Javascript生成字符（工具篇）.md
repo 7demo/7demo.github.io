@@ -32,8 +32,8 @@ tags:
 PS:太简单了有没有，没有挑战有没有（其实也是参考了别人的文章，奈何现在找不到原地址了，没得贴出来，sorry，以后碰到补上），那等下次补个<code>canvas</code>版的。哈哈！又自我挖坑！
 
 
-  [1]: https://raw.githubusercontent.com/7demo/7demo.github.io/blob/master/images/zifu1.jpg
-  [2]: https://raw.githubusercontent.com/7demo/7demo.github.io/blob/master/images/zifu2.jpg
-  [3]: https://raw.githubusercontent.com/7demo/7demo.github.io/blob/master/images/zifu3.jpg
-  [4]: https://raw.githubusercontent.com/7demo/7demo.github.io/blob/master/images/zifu4.jpg
-  [5]: https://raw.githubusercontent.com/7demo/7demo.github.io/blob/master/images/zifu5.jpg
+  [1]: https://raw.githubusercontent.com/7demo/7demo.github.io/master/images/zifu1.jpg
+  [2]: https://raw.githubusercontent.com/7demo/7demo.github.io/master/images/zifu2.jpg
+  [3]: https://raw.githubusercontent.com/7demo/7demo.github.io/master/images/zifu3.jpg
+  [4]: https://raw.githubusercontent.com/7demo/7demo.github.io/master/images/zifu4.jpg
+  [5]: https://raw.githubusercontent.com/7demo/7demo.github.io/master/images/zifu5.jpg
