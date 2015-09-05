@@ -14,13 +14,16 @@ tags:
 于是乎，自己尝试下。由于很简单，所以就无脑罗列了。
 
  1. 下载字符画生成工具——ASCII Generator（当然其他的也ok）。然后把要变成字符串的图片拖到图片区域。
+   
     ![zifu][1]
  2. 可以根据自己的需要进行大小、字符样式进行调整，然后复制出来。
     
  3. 复制到Sublime中，然后选择第行第一列把换行换成“\n”（若直接丢到代码中，会因为代码中不能有换行使代码报错）。
+   
     ![此处输入图片的描述][2]
     ![此处输入图片的描述][3]
  4. 剩下的丢到console中，然后浏览器查看。
+   
     ![此处输入图片的描述][4]
     ![此处输入图片的描述][5]
 
@@ -29,8 +32,8 @@ tags:
 PS:太简单了有没有，没有挑战有没有（其实也是参考了别人的文章，奈何现在找不到原地址了，没得贴出来，sorry，以后碰到补上），那等下次补个<code>canvas</code>版的。哈哈！又自我挖坑！
 
 
-  [1]: https://github.com/7demo/7demo.github.io/blob/master/images/zifu1.jpg
-  [2]: https://github.com/7demo/7demo.github.io/blob/master/images/zifu2.jpg
-  [3]: https://github.com/7demo/7demo.github.io/blob/master/images/zifu3.jpg
-  [4]: https://github.com/7demo/7demo.github.io/blob/master/images/zifu4.jpg
-  [5]: https://github.com/7demo/7demo.github.io/blob/master/images/zifu5.jpg
+  [1]: /7demo/7demo.github.io/blob/master/images/zifu1.jpg?raw=true
+  [2]: /7demo/7demo.github.io/blob/master/images/zifu2.jpg?raw=true
+  [3]: /7demo/7demo.github.io/blob/master/images/zifu3.jpg?raw=true
+  [4]: /7demo/7demo.github.io/blob/master/images/zifu4.jpg?raw=true
+  [5]: /7demo/7demo.github.io/blob/master/images/zifu5.jpg?raw=true
