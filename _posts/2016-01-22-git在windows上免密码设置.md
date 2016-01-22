@@ -13,16 +13,20 @@ tags:
 
 1,    
     
-    > 在<code>C:\Users\{当前用户}</code>目录下，创建<code>_netrc</code>(可以在CMD中，输入%HOME%打开).
+    在<code>C:\Users\{当前用户}</code>目录下，创建<code>_netrc</code>(可以在CMD中，输入%HOME%打开).
 
 2，
     编辑<code>_netrc</code>内容：
-    > machine github.com
-    > login ***@***.com
-    > password ***
-
-3，设置<code>HOME</code>环境变量（即 用户变量）
-    > <code>HOME</code> <code>%USERPROFILE%</code>     (DOS下执行 <code>setx HOME %USERPROFILE%</code>)
+    <code>machine github.com</code>
+    <code>login ***@***.com</code>
+    <code>password ***</code>
+    
     
 
-[参考]: http://google.com/
+3，设置<code>HOME</code>环境变量（即 用户变量）
+    <code>HOME</code> <code>%USERPROFILE%</code>     (DOS下执行 <code>setx HOME %USERPROFILE%</code>)
+    
+
+[参考][1]
+
+[1]: http://google.com/
